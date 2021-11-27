@@ -1,2 +1,3 @@
 # react-calculator
-Created with CodeSandbox
+A simple react based calculator 
+
